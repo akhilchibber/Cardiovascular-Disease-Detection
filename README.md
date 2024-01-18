@@ -1,6 +1,6 @@
 # Machine Learning based Cardiovascular Disease Detection
 <p align="center">
-  <img src="https://github.com/akhilchibber/Cardiovascular-Disease-Detection/blob/main/Cardiovascular-Disease-Detection.gif?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Cardiovascular-Disease-Detection/blob/main/Cardiovascular-Disease-Detection.gif?raw=true" alt="earthml Logo" style="width:100%; height:auto;">
 </p>
 
 ## Dataset
